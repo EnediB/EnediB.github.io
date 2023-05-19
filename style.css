@@ -469,11 +469,7 @@ footer {
   }
 
   .sobre-mi  {
-    max-height: 1000px;
-  }
-
-  .cv{
-    margin-bottom: 1000px !important;
+    max-height: 480px !important;
   }
 }
 
